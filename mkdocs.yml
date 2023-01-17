@@ -1,0 +1,8 @@
+site_name: "Bringo"
+site_description: "Bringo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
